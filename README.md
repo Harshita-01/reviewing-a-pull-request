@@ -1,5 +1,7 @@
 ## Welcome to awesome game of Tetris
-
+Left reviews and line comments
+Created a file and made a commit
+Opened a pull request
 A project based learning activity for people who are getting started with Git and GitHub.
 
 To play the game:
