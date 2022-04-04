@@ -8,6 +8,9 @@ To play the game:
 1. Select **Master** from the Source drop-down.
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
+2. Left reviews and line comments
+Created a file and made a commit
+Opened a pull request
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
