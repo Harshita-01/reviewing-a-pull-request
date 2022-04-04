@@ -1,6 +1,6 @@
 ## Welcome to awesome game of Tetris
 ## no description needed
-Left reviews and line comments
+You can play the game at: https://Harshita-01.github.io/github-games/
 Created a file and made a commit
 Opened a pull request
 A project based learning activity for people who are getting started with Git and GitHub.
